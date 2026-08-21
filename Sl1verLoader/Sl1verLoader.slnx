@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Sl1verLoaderd/Sl1verLoaderd.csproj" Id="9479d1e3-c518-48e0-9cf4-3c3cb14bd3fc">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+  <Project Path="Sl1verLoadere/Sl1verLoadere.csproj" Id="43ad0d59-f26c-41fe-879b-f4d0cb345967">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>

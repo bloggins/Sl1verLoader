@@ -1,0 +1,6 @@
+C:\Users\dev\source\Sl1verLoader\Sl1verLoaderd\bin\x64\Release\Sl1verLoaderd.dll
+C:\Users\dev\source\Sl1verLoader\Sl1verLoaderd\bin\x64\Release\Sl1verLoaderd.pdb
+C:\Users\dev\source\Sl1verLoader\Sl1verLoaderd\obj\x64\Release\Sl1verLoaderd.csproj.AssemblyReference.cache
+C:\Users\dev\source\Sl1verLoader\Sl1verLoaderd\obj\x64\Release\Sl1verLoaderd.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\Sl1verLoader\Sl1verLoaderd\obj\x64\Release\Sl1verLoaderd.dll
+C:\Users\dev\source\Sl1verLoader\Sl1verLoaderd\obj\x64\Release\Sl1verLoaderd.pdb
